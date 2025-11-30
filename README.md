@@ -7,4 +7,4 @@ Learning &amp; Building in Pytorch
 - **NN Modules**: [View Notebook](https://github.com/At0mXploit/TorchTales/tree/main/NN%20Module) - Building NN with help of NN Modules.
 - **Dataset & DataLoader**: [View Notebook](https://github.com/At0mXploit/TorchTales/tree/main/Dataset%20%26%20DataLoader) - Theory on Dataset & DataLoader and Mini Batch Gradient Descent also Improving our code.
 - **ANN (Artificial Neural Network) / MLP (Multi Layer Perceptron)**: [View Notebook](https://github.com/At0mXploit/TorchTales/tree/main/ANN) - Buidling ANN without GPU with and without GPU of [MNIST Fashion Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist). 
-
+- **ANN Optimization**: [View Notebook](https://github.com/At0mXploit/TorchTales/tree/main/ANN%20Optimization) - Optimizing ANN to reduce Overfitting using Dropouts, Batch Normalization and L2 Regularization.
