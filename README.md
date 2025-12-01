@@ -11,3 +11,4 @@ Learning &amp; Building in Pytorch
 - **Hyperparameter Tuning & Bayesian Optimization (Optuna terms)**: [View PDF](https://github.com/At0mXploit/TorchTales/blob/main/Hyperparameter%20Tuning%20and%20Bayesian%20Optimization.pdf) - Grid Search CV and Random Search CV are techniques used for hyperparameter tuning but Optuna uses Bayesian Optimization by default.
 - **Optuna Basics**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/Optuna.ipynb) - Applying hyperparameter tuning using Optuna Bayesian Optimization.
 - **Hyperparameter Tuning Using Optuna**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/ANN_Optuna_Hypertuning.ipynb) - Hyperparameter Tuning of ANN with different parameters using Optuna to get the best accuracy for model.
+- **Convolutional Neural Network**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/CNN.ipynb) - Simple CNN for Image Classification.
