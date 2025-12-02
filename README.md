@@ -13,3 +13,4 @@ Learning &amp; Building in Pytorch
 - **Hyperparameter Tuning Using Optuna**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/ANN_Optuna_Hypertuning.ipynb) - Hyperparameter Tuning of ANN with different parameters using Optuna to get the best accuracy for model.
 - **Convolutional Neural Network**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/CNN.ipynb) - Simple CNN for Image Classification.
 - **Transfer Learning**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/Transfer_Learning.ipynb) - Adding Transfer Learning in CNN with pretrained VGG-16 model.
+- **Recurrent Neural Network (RNNs)**: [View Notebook](https://github.com/At0mXploit/TorchTales/tree/main/RNN) - RNN that predicts answers from set of 100 questions dataset with variations.
