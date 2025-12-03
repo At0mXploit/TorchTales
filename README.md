@@ -14,3 +14,4 @@ Learning &amp; Building in Pytorch
 - **Convolutional Neural Network**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/CNN.ipynb) - Simple CNN for Image Classification.
 - **Transfer Learning**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/Transfer_Learning.ipynb) - Adding Transfer Learning in CNN with pretrained VGG-16 model.
 - **Recurrent Neural Network (RNNs)**: [View Notebook](https://github.com/At0mXploit/TorchTales/tree/main/RNN) - RNN that predicts answers from set of 100 questions dataset with variations.
+- **Long Term Short Term (LSTM)**: [View Notebook](https://github.com/At0mXploit/TorchTales/blob/main/LSTM.ipynb), [View PDF](https://github.com/At0mXploit/TorchTales/blob/main/RNN%20%26%20LSTM%20Rough%20.pdf) - Simple next word predictor LSTM.
